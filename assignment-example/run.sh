@@ -2,7 +2,9 @@
 
 # activate the environment
 source ./env/bin/activate
+
 # run the code
-python src/test.py
+python src/main.py
+
 # close the environment
 deactivate
