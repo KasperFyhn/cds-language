@@ -131,5 +131,8 @@ dmypy.json
 # IDEs
 .idea
 
+# don't keep data in git
+data/
+
 # output files
 output
