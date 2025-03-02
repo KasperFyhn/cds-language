@@ -7,3 +7,5 @@ transformers
 datasets
 bertopic
 nltk
+matplotlib
+scikit-learn
