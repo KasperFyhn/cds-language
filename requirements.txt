@@ -9,3 +9,7 @@ bertopic
 nltk
 matplotlib
 scikit-learn
+gensim
+seaborn
+numpy
+sentence-transformers
